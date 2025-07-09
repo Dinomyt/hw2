@@ -1,0 +1,32 @@
+
+header,
+main,
+nav,
+footer {
+  /* text-align: center; */
+}
+
+body {
+  background-image: url("../img/bg.png");
+  background-size: cover;
+  font-family: "Open Sans", sans-serif;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
+footer {
+  text-align: center;
+  padding: 1em 0;
+  font-size: 0.8em;
+  color: #777;
+}
+footer img {
+  max-width: 80px;
+  display: block;
+  margin: 0.5em auto;
+}
